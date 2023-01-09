@@ -10,4 +10,4 @@ BasvuruManager basvuruManager = new BasvuruManager();
 basvuruManager.BasvuruYap(ihtiyacKrediManager);
 
 var krediler = new List<IKrediManager>();
-List<IKrediManager> krediler2 = new ();
+
