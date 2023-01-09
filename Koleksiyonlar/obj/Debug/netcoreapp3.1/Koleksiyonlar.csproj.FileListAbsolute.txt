@@ -1,0 +1,14 @@
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.deps.json
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.runtimeconfig.json
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.runtimeconfig.dev.json
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.dll
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/bin/Debug/netcoreapp3.1/Koleksiyonlar.pdb
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.csproj.AssemblyReference.cache
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.AssemblyInfo.cs
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.dll
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.pdb
+/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/obj/Debug/netcoreapp3.1/Koleksiyonlar.genruntimeconfig.cache

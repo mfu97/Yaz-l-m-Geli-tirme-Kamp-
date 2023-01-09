@@ -1,0 +1,14 @@
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Fatih\source\repos\engin demirog dersleri\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache
