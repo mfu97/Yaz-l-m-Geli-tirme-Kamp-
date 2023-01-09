@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fatihunal/Documents/repos/engin demirog dersleri/engin demirog dersleri/Metodlar.csproj",
+      "projectUniqueName": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/engin demirog dersleri/Metodlar.csproj",
       "projectName": "Metodlar",
-      "projectPath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/engin demirog dersleri/Metodlar.csproj",
+      "projectPath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/engin demirog dersleri/Metodlar.csproj",
       "packagesPath": "/Users/fatihunal/.nuget/packages/",
-      "outputPath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/engin demirog dersleri/obj/",
+      "outputPath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/engin demirog dersleri/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fatihunal/.nuget/NuGet/NuGet.Config"

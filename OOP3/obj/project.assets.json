@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fatihunal/Documents/repos/engin demirog dersleri/OOP3/OOP3.csproj",
+      "projectUniqueName": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP3/OOP3.csproj",
       "projectName": "OOP3",
-      "projectPath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/OOP3/OOP3.csproj",
+      "projectPath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP3/OOP3.csproj",
       "packagesPath": "/Users/fatihunal/.nuget/packages/",
-      "outputPath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/OOP3/obj/",
+      "outputPath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fatihunal/.nuget/NuGet/NuGet.Config"

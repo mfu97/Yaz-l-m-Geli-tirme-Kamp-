@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9A+gNCk69dEnTeWDI+1n933WsPL5n1GFescWKUlhjy86WVN5lfHkf+VKXCZQWawHz1cG0xSBOkPUqbCKmQN4A==",
+  "dgSpecHash": "nf1hJMR5Bxww+yiM94KuTy/XyXJVu3vP7rGd2K6U/dmJfjkOhWmx+VcxZya+Hu5TXKpzYsWWbaD5OCP5iRVusg==",
   "success": true,
-  "projectFilePath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/DegerVeReferansTipler/DegerVeReferansTipler.csproj",
+  "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/DegerVeReferansTipler.csproj",
   "expectedPackageFiles": [
     "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

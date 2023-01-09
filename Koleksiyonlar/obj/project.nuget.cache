@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYgmgCkXWtlCKCCWja6vviW7i7h0M2GDSiwfFRUcozNS5//ccGpiJh9oylbOlhTEau6KWTtxlEnbxTvHg438Yw==",
+  "dgSpecHash": "dYZDXOex+R/o3poNkrKm63PJxvaKxVkgltfLaiXhXKipbVu+IP2gYZHRsnN3ilzMOEWXh77czdN9o7PC2E5gag==",
   "success": true,
-  "projectFilePath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/Koleksiyonlar/Koleksiyonlar.csproj",
+  "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/Koleksiyonlar/Koleksiyonlar.csproj",
   "expectedPackageFiles": [
     "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",

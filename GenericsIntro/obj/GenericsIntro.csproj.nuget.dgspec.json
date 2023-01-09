@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fatihunal/Documents/repos/engin demirog dersleri/GenericsIntro/GenericsIntro.csproj": {}
+    "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/GenericsIntro/GenericsIntro.csproj": {}
   },
   "projects": {
-    "/Users/fatihunal/Documents/repos/engin demirog dersleri/GenericsIntro/GenericsIntro.csproj": {
+    "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/GenericsIntro/GenericsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatihunal/Documents/repos/engin demirog dersleri/GenericsIntro/GenericsIntro.csproj",
+        "projectUniqueName": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/GenericsIntro/GenericsIntro.csproj",
         "projectName": "GenericsIntro",
-        "projectPath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/GenericsIntro/GenericsIntro.csproj",
+        "projectPath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/GenericsIntro/GenericsIntro.csproj",
         "packagesPath": "/Users/fatihunal/.nuget/packages/",
-        "outputPath": "/Users/fatihunal/Documents/repos/engin demirog dersleri/GenericsIntro/obj/",
+        "outputPath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/GenericsIntro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fatihunal/.nuget/NuGet/NuGet.Config"
