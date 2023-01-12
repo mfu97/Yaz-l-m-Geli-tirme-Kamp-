@@ -1,0 +1,14 @@
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/bin/Debug/netcoreapp3.1/DegerVeReferansTipler
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/bin/Debug/netcoreapp3.1/DegerVeReferansTipler.deps.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/bin/Debug/netcoreapp3.1/DegerVeReferansTipler.runtimeconfig.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/bin/Debug/netcoreapp3.1/DegerVeReferansTipler.runtimeconfig.dev.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/bin/Debug/netcoreapp3.1/DegerVeReferansTipler.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/bin/Debug/netcoreapp3.1/DegerVeReferansTipler.pdb
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.csproj.AssemblyReference.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.AssemblyInfoInputs.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.AssemblyInfo.cs
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.pdb
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/obj/Debug/netcoreapp3.1/DegerVeReferansTipler.genruntimeconfig.cache
