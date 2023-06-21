@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYZDXOex+R/o3poNkrKm63PJxvaKxVkgltfLaiXhXKipbVu+IP2gYZHRsnN3ilzMOEWXh77czdN9o7PC2E5gag==",
+  "dgSpecHash": "3yJrgVSMtR2+wZHKjYTZZeVAQjP5iKCIZKkTSaqBuS+TuqNQCKLw6wqJfrt+1RgwS/Dg/4AstH6eQHvy1TCgsg==",
   "success": true,
   "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/Koleksiyonlar/Koleksiyonlar.csproj",
-  "expectedPackageFiles": [
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

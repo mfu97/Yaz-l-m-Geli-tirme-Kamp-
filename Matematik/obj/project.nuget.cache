@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWIY9W0G2uRw0WATs+xpuL1DpCUKDNzxa2MxSmYpmYAeuO9d59ubcMAzLjrzEqoVtCxlsLfmhTP8a/iP+SLVPg==",
+  "dgSpecHash": "yQaAGmn5l8tTrRsU2ReGiNwpVPuS4mkmB+piB29lJmXUeuS2K8NRNiPgGKRLubGxkQtLOjXNk1SYpDsxnTl7mw==",
   "success": true,
   "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/Matematik/Matematik.csproj",
-  "expectedPackageFiles": [
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

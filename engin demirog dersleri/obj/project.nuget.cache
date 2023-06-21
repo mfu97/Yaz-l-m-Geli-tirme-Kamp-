@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yOt8irFU6MRVY6gWbK/nAL+hy2AaA+Fhf/b691DNtU0tfjzYI0quKvwNeC+9RKWUIdzZvv6jsz7019bMxpaSTg==",
+  "dgSpecHash": "ETxBpOo6TYm9ogidXd+YldS4OOI2oU+/bKn2jS6G4xkmOjKArDlRfLLB7do2d72b3lsrFoR0U62hmlBSq1qRBQ==",
   "success": true,
   "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/engin demirog dersleri/Metodlar.csproj",
-  "expectedPackageFiles": [
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

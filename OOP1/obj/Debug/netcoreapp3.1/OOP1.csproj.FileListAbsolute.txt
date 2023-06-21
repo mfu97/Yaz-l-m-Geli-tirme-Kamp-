@@ -1,0 +1,14 @@
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/bin/Debug/netcoreapp3.1/OOP1
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/bin/Debug/netcoreapp3.1/OOP1.deps.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/bin/Debug/netcoreapp3.1/OOP1.runtimeconfig.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/bin/Debug/netcoreapp3.1/OOP1.runtimeconfig.dev.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/bin/Debug/netcoreapp3.1/OOP1.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/bin/Debug/netcoreapp3.1/OOP1.pdb
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.csproj.AssemblyReference.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.AssemblyInfoInputs.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.AssemblyInfo.cs
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.csproj.CoreCompileInputs.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.pdb
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/obj/Debug/netcoreapp3.1/OOP1.genruntimeconfig.cache

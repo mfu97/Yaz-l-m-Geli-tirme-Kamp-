@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nf1hJMR5Bxww+yiM94KuTy/XyXJVu3vP7rGd2K6U/dmJfjkOhWmx+VcxZya+Hu5TXKpzYsWWbaD5OCP5iRVusg==",
+  "dgSpecHash": "N0ava4JZac0RAvYht7p/+z0hXFqOFVvao0DJVBPmViclD+7XBrN/+T9mfr5GeRNtUStv/8ndp4H2CFLD5vEg8Q==",
   "success": true,
   "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/DegerVeReferansTipler/DegerVeReferansTipler.csproj",
-  "expectedPackageFiles": [
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

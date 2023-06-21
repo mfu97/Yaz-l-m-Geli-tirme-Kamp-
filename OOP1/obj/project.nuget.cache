@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VnpuDTZJXypj4ob5V/uBLixr25iSAtwL4feoygW3N0HhNKY2reLBvk6DTDEBZWn7lSiZfhJ7zB0D8dzTOrLKPw==",
+  "dgSpecHash": "LDW5NuQaBzkiaC7QKQGzJCwh9MBWKfMYUZSt8RLDt3d2rvWdBu+hA64PaX8pWsBjicpnUwmcTdDof4Bdq9xgdg==",
   "success": true,
   "projectFilePath": "/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP1/OOP1.csproj",
-  "expectedPackageFiles": [
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/fatihunal/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

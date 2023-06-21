@@ -1,0 +1,15 @@
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/bin/Debug/net6.0/OOP2
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/bin/Debug/net6.0/OOP2.deps.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/bin/Debug/net6.0/OOP2.runtimeconfig.json
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/bin/Debug/net6.0/OOP2.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/bin/Debug/net6.0/OOP2.pdb
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.csproj.AssemblyReference.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.AssemblyInfoInputs.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.AssemblyInfo.cs
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.csproj.CoreCompileInputs.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/refint/OOP2.dll
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.pdb
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/OOP2.genruntimeconfig.cache
+/Users/fatihunal/Desktop/Repo c#/Yazilim-Gelistirme-Kampi/OOP2/obj/Debug/net6.0/ref/OOP2.dll
